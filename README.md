@@ -16,5 +16,5 @@ Create Redux Store. This Store will bring Actions and Reducers together and hold
 Now we need to install Redux, Thunk Middleware and Redux Devtool Extension.
 Run the command:
 
-    npm install redux redux-thunk
-    npm install --save-dev redux-devtools-extension
+    yarn add redux redux-thunk
+    yarn add redux-devtools-extension
