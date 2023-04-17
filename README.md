@@ -18,3 +18,8 @@ Run the command:
 
     yarn add redux redux-thunk
     yarn add redux-devtools-extension
+
+### Fourth Installation:
+Form Validation overview
+
+    yarn add react-validation validator
