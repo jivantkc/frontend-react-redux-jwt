@@ -6,6 +6,8 @@ To skip the boilerplate I will use the commando below to start the project
     npx create-react-app frontend
    
 ### Second step:
-We are gonna need some packages.
+We are gonna need some packages and install material ui.
 
     yarn add axios react-redux @reduxjs/toolkit react-router-dom
+    yarn add @mui/material @emotion/react @emotion/styled
+
