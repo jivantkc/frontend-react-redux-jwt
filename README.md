@@ -43,7 +43,7 @@ Things to understand:
 ### Second Install:
 We are gonna need some packages and install material ui.
 
-    yarn add axios react-redux @reduxjs/toolkit react-router-dom
+    yarn add axios react-router-dom
     yarn add @mui/material @emotion/react @emotion/styled
     yarn add @mui/icons-material
     
@@ -60,7 +60,7 @@ Create Redux Store. This Store will bring Actions and Reducers together and hold
 Now we need to install Redux, Thunk Middleware and Redux Devtool Extension.
 Run the command:
 
-    yarn add redux redux-thunk
+    yarn add redux react-redux redux-thunk redux-devtools-extension
     yarn add redux-devtools-extension
 
 ### Fourth Installation:
