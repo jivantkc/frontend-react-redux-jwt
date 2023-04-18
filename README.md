@@ -46,6 +46,9 @@ We are gonna need some packages and install material ui.
     yarn add axios react-redux @reduxjs/toolkit react-router-dom
     yarn add @mui/material @emotion/react @emotion/styled
     yarn add @mui/icons-material
+    
+    #to add date picker add followung
+    yarn add @date-io/date-fns@1.3.13 @material-ui/pickers@3.3.10 date-fns@2.22.1
 
 ### Third Install:
 Create Redux Store. This Store will bring Actions and Reducers together and hold the Application state.
