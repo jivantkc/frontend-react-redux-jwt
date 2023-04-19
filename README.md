@@ -56,6 +56,7 @@ We are gonna need some packages and install material ui.
     yarn add @material-ui/core
 
 ### Third Install:
+https://redux-toolkit.js.org/tutorials/quick-start
 Create Redux Store. This Store will bring Actions and Reducers together and hold the Application state.
 Now we need to install Redux, Thunk Middleware and Redux Devtool Extension.
 Run the command:
