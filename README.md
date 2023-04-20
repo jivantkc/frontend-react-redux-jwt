@@ -1,6 +1,10 @@
 # frontend-react-redux-jwt
 Creating a frontend using react, redux, jwt, locatStorage
 ### First Install
+
+https://www.youtube.com/watch?v=Icd-_K7KFrs
+
+
 To skip the boilerplate I will use the commando below to start the project
     
     npx create-react-app frontend
