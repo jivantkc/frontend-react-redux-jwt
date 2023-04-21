@@ -75,3 +75,8 @@ Form Validation overview
     
     
 https://www.youtube.com/watch?v=rWfhwW9forg&t=10s
+
+
+https://www.positronx.io/react-redux-save-data-in-local-storage-with-persist-tutorial/
+
+https://spacejelly.dev/posts/how-to-save-state-to-localstorage-persist-on-refresh-with-react-js/
